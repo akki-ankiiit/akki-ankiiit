@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @akki-ankiiit
 - 👀 I’m interested in astronomy.
-- 🌱 I’m currently learning c++, html and graphic designing.
-- 💞️ I’m looking to collaborate on astro-hubs.
+- 🌱 I am React-Native developer.
+- 💞️ I build apps, webs, graphic designs and smiles.
